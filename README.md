@@ -17,7 +17,10 @@ Pearson correlation is a statistical technique for measuring the degree of the l
 
 **Before we implement the Pearson correlation using Python, let’s take a look at some important points to understand the result:**
 
-1.Positive values signify a positive linear correlation.
+1.Positive values signify a positive linear correlation. 
+
 2.Negative values mean negative linear correlation.
+
 3.0 means no linear correlation.
+
 4.The closer the value is to 1 or -1, the stronger the linear correlation.
